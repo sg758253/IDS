@@ -1,4 +1,4 @@
-food item,weight_in_grams,saturated_fat,cholesterol
+food_item,weight_in_grams,saturated_fat,cholesterol
 "GELATIN; DRY                  1 ENVELP",7.000000,0.000000,0
 "SEAWEED; SPIRULINA; DRIED     1 OZ    ",28.350000,0.800000,0
 "YEAST; BAKERS; DRY; ACTIVE    1 PKG   ",7.000000,0.000000,0
